@@ -25,7 +25,7 @@ export default function MultipleReturns() {
     }, [])
 
     if(isLoading) {
-        return <h3>Loading....</h3> 
+        return <h3>Loading... Data being fetched... Please wait</h3>  
     }
 
 
