@@ -44,7 +44,7 @@ export default function GenerateRadioBtnDynamically() {
                         </div>
                     )
                 })}
-            </form>" language='js' showLineNumbers='true' startingLineNumber='1' />
+            </form>" language='javascript' showLineNumbers={true} startingLineNumber={1} />
 
         </>
     )

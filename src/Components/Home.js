@@ -8,6 +8,7 @@ import UseCallBackDemo from "../UseCallBack&Memoise/UseCallbackDemo";
 import UseEffectDemo_1 from "../UseEffectDemo/demo-1";
 import UseEffectDemo_2 from "../UseEffectDemo/demo-2";
 import MultipleReturns from "../ConditionalRendering/MultipleReturns";
+import MemoDemo from "../MemoDemo/MemoDemo";
 
 
 export default function Home() {
@@ -22,22 +23,23 @@ export default function Home() {
                 
                 {/* <Parent/> 
                 <br/> 
-                <br/> 
+                <br/>  */}
                 
-                <RadionBtnDemo/> 
+                {/* <RadionBtnDemo/> 
                 <br/> 
-                <br/> 
+                <br/>  */}
 
-                <GenerateRadioBtnDynamically/> 
+                {/* <GenerateRadioBtnDynamically/> 
+                <br/> 
+                <br/>  */}
 
 
+                {/* <Checkboxdemo/> 
                 <br/> 
-                <br/> 
-                <Checkboxdemo/>  */}
-                
-                {/* <br/> 
-                <br/> 
-                <UseCallBackDemo/>  */}
+                <br/>  */}
+
+
+                {/* <UseCallBackDemo/>  */}
 
  
                 {/* <UseEffectDemo_1/> */}
@@ -45,7 +47,10 @@ export default function Home() {
                 {/* <UseEffectDemo_2/>  */}
 
 
-                <MultipleReturns/> 
+                {/* <MultipleReturns/>  */}
+
+
+                <MemoDemo/> 
 
 
             </section>
